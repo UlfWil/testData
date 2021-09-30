@@ -1,5 +1,5 @@
 {
-    car:'Ferrari',
+    car:"Ferrari",
     model:'testarossa',
     answers:['Uruselt!','Dålig','BRA','VäLDIGT BRA'],
     current_quest:0,
