@@ -237,7 +237,6 @@
     }
   ],
   "questionslist": [
-     
         {
           "text": "Vad fick du till lunch idag?",
           "href": "https://vuetifyjs.com/getting-started/pre-made-layouts",
@@ -249,7 +248,7 @@
           "href": "https://vuetifyjs.com/components/api-explorer",
           "button_text":[ "Trist och smaklös","Fullt ätbar","Mycket god",""],
           "button_color":["red","yellow","green","green"]
-        },            {
+        },
           "text": "Kom hemtjänstbesöket i tid idag?",
           "href": "https://vuetifyjs.com/getting-started/frequently-asked-questions",
           "button_text":[ "Besöket kom för sent","Besöket kom för tidigt","Besöket kom i tid",""],
