@@ -1,10 +1,9 @@
 {
-    "car":"Ferrari",
-    "model":"testarossa",
-    "answers":["Uruselt!","Dålig","BRA","VäLDIGT BRA"],
-    "current_quest":0,
-    "questionslist": [
-     
+    "car": "Ferrari",
+    "model": "testarossa",
+    "answers": ["Uruselt!","Dålig","BRA","VäLDIGT BRA"],
+    "current_quest": 0,
+    "questionslist": [    
         {
           "text": "Vad fick du till lunch idag?",
           "href": "https://vuetifyjs.com/getting-started/pre-made-layouts",
