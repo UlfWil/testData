@@ -271,7 +271,7 @@
         {
             "text": "Hur bedömer du ditt allmänna hälsotillstånd?",
             "href": "https://vuetifyjs.com/getting-started/frequently-asked-questions",
-            "button_text":[ "Mycket dåligt","Ganska dåligt","Någorlunda","Bra"],
+            "button_text":[ "Mycket dåligt","Ganska dåligt","Någorlunda","Mkt Bra"],
             "button_color":["red","orange","yellow","green"]
         }
       ]
