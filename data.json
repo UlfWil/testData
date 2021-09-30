@@ -1,7 +1,7 @@
 {
-    car:"Ferrari",
-    model:'testarossa',
-    answers:['Uruselt!','Dålig','BRA','VäLDIGT BRA'],
+    "car":"Ferrari",
+    "model":"testarossa",
+    "answers":["Uruselt!","Dålig","BRA","VäLDIGT BRA"],
     current_quest:0,
     questionslist: [
      
