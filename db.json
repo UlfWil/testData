@@ -1,45 +1,5 @@
 {
     "car":"Ferrari",
     "model":"testarossa",
-    "answers":["Uruselt!","Dålig","BRA","VäLDIGT BRA"],
-    "current_quest":0,
-    "questionslist": [
-     
-        {
-          "text": "Vad fick du till lunch idag?",
-          "href": "https://vuetifyjs.com/getting-started/pre-made-layouts",
-          "button_text":[ "\"Biff Rydberg\" Kött,lök och potatis","Köttbullar med mos","Torsk med potatis","Kalops"],
-          "button_color":["pink","teal","light-blue","cyan"]
-        },
-        {
-          "text": "Hur tycker du lunchen smakade? ",
-          "href": "https://vuetifyjs.com/components/api-explorer",
-          "button_text":[ "Trist och smaklös","Fullt ätbar","Mycket god",""],
-          "button_color":["red","yellow","green","green"]
-        },            {
-          "text": "Kom hemtjänstbesöket i tid idag?",
-          "href": "https://vuetifyjs.com/getting-started/frequently-asked-questions",
-          "button_text":[ "Besöket kom för sent","Besöket kom för tidigt","Besöket kom i tid",""],
-          "button_color":["red","red","green","green"]
-
-        },
-        {
-            "text": "Kände du igen personalen som kom idag?",
-            "href": "https://vuetifyjs.com/getting-started/frequently-asked-questions",
-            "button_text":[ "Nej","","","Ja"],
-            "button_color":["red","orange","yellow","green"]
-        },
-        {
-            "text": "Vad heter hon som skötte om dig idag?",
-            "href": "https://vuetifyjs.com/getting-started/frequently-asked-questions",
-            "button_text":[ "Vet ej!","Hanna","Gunilla","Sara"],
-            "button_color":["red","blue","blue","blue"]
-        },
-        {
-            "text": "Hur bedömer du ditt allmänna hälsotillstånd?",
-            "href": "https://vuetifyjs.com/getting-started/frequently-asked-questions",
-            "button_text":[ "Mycket dåligt","Ganska dåligt","Någorlunda","Bra"],
-            "button_color":["red","orange","yellow","green"]
-        }
-      ]
+    
 }
